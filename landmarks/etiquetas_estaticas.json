@@ -1,0 +1,183 @@
+{
+  "clases": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "L",
+    "M",
+    "N",
+    "O",
+    "P",
+    "R",
+    "S",
+    "T",
+    "U",
+    "V",
+    "W",
+    "Y",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8"
+  ],
+  "total_muestras": 8700,
+  "total_omitidas": 0,
+  "detalle": {
+    "A": {
+      "fotos_totales": 300,
+      "fotos_procesadas": 300,
+      "fotos_omitidas": 0
+    },
+    "B": {
+      "fotos_totales": 300,
+      "fotos_procesadas": 300,
+      "fotos_omitidas": 0
+    },
+    "C": {
+      "fotos_totales": 300,
+      "fotos_procesadas": 300,
+      "fotos_omitidas": 0
+    },
+    "D": {
+      "fotos_totales": 300,
+      "fotos_procesadas": 300,
+      "fotos_omitidas": 0
+    },
+    "E": {
+      "fotos_totales": 300,
+      "fotos_procesadas": 300,
+      "fotos_omitidas": 0
+    },
+    "F": {
+      "fotos_totales": 300,
+      "fotos_procesadas": 300,
+      "fotos_omitidas": 0
+    },
+    "G": {
+      "fotos_totales": 300,
+      "fotos_procesadas": 300,
+      "fotos_omitidas": 0
+    },
+    "H": {
+      "fotos_totales": 300,
+      "fotos_procesadas": 300,
+      "fotos_omitidas": 0
+    },
+    "I": {
+      "fotos_totales": 300,
+      "fotos_procesadas": 300,
+      "fotos_omitidas": 0
+    },
+    "L": {
+      "fotos_totales": 300,
+      "fotos_procesadas": 300,
+      "fotos_omitidas": 0
+    },
+    "M": {
+      "fotos_totales": 300,
+      "fotos_procesadas": 300,
+      "fotos_omitidas": 0
+    },
+    "N": {
+      "fotos_totales": 300,
+      "fotos_procesadas": 300,
+      "fotos_omitidas": 0
+    },
+    "O": {
+      "fotos_totales": 300,
+      "fotos_procesadas": 300,
+      "fotos_omitidas": 0
+    },
+    "P": {
+      "fotos_totales": 300,
+      "fotos_procesadas": 300,
+      "fotos_omitidas": 0
+    },
+    "R": {
+      "fotos_totales": 300,
+      "fotos_procesadas": 300,
+      "fotos_omitidas": 0
+    },
+    "S": {
+      "fotos_totales": 300,
+      "fotos_procesadas": 300,
+      "fotos_omitidas": 0
+    },
+    "T": {
+      "fotos_totales": 300,
+      "fotos_procesadas": 300,
+      "fotos_omitidas": 0
+    },
+    "U": {
+      "fotos_totales": 300,
+      "fotos_procesadas": 300,
+      "fotos_omitidas": 0
+    },
+    "V": {
+      "fotos_totales": 300,
+      "fotos_procesadas": 300,
+      "fotos_omitidas": 0
+    },
+    "W": {
+      "fotos_totales": 300,
+      "fotos_procesadas": 300,
+      "fotos_omitidas": 0
+    },
+    "Y": {
+      "fotos_totales": 300,
+      "fotos_procesadas": 300,
+      "fotos_omitidas": 0
+    },
+    "1": {
+      "fotos_totales": 300,
+      "fotos_procesadas": 300,
+      "fotos_omitidas": 0
+    },
+    "2": {
+      "fotos_totales": 300,
+      "fotos_procesadas": 300,
+      "fotos_omitidas": 0
+    },
+    "3": {
+      "fotos_totales": 300,
+      "fotos_procesadas": 300,
+      "fotos_omitidas": 0
+    },
+    "4": {
+      "fotos_totales": 300,
+      "fotos_procesadas": 300,
+      "fotos_omitidas": 0
+    },
+    "5": {
+      "fotos_totales": 300,
+      "fotos_procesadas": 300,
+      "fotos_omitidas": 0
+    },
+    "6": {
+      "fotos_totales": 300,
+      "fotos_procesadas": 300,
+      "fotos_omitidas": 0
+    },
+    "7": {
+      "fotos_totales": 300,
+      "fotos_procesadas": 300,
+      "fotos_omitidas": 0
+    },
+    "8": {
+      "fotos_totales": 300,
+      "fotos_procesadas": 300,
+      "fotos_omitidas": 0
+    }
+  },
+  "timestamp": "2026-09-30T16:50:19.704073"
+}
